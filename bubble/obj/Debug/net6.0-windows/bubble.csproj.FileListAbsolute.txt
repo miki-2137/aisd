@@ -1,0 +1,16 @@
+D:\UWM\aisd\bubble\bin\Debug\net6.0-windows\bubble.exe
+D:\UWM\aisd\bubble\bin\Debug\net6.0-windows\bubble.deps.json
+D:\UWM\aisd\bubble\bin\Debug\net6.0-windows\bubble.runtimeconfig.json
+D:\UWM\aisd\bubble\bin\Debug\net6.0-windows\bubble.dll
+D:\UWM\aisd\bubble\bin\Debug\net6.0-windows\bubble.pdb
+D:\UWM\aisd\bubble\obj\Debug\net6.0-windows\bubble.Form1.resources
+D:\UWM\aisd\bubble\obj\Debug\net6.0-windows\bubble.csproj.GenerateResource.cache
+D:\UWM\aisd\bubble\obj\Debug\net6.0-windows\bubble.GeneratedMSBuildEditorConfig.editorconfig
+D:\UWM\aisd\bubble\obj\Debug\net6.0-windows\bubble.AssemblyInfoInputs.cache
+D:\UWM\aisd\bubble\obj\Debug\net6.0-windows\bubble.AssemblyInfo.cs
+D:\UWM\aisd\bubble\obj\Debug\net6.0-windows\bubble.csproj.CoreCompileInputs.cache
+D:\UWM\aisd\bubble\obj\Debug\net6.0-windows\bubble.dll
+D:\UWM\aisd\bubble\obj\Debug\net6.0-windows\refint\bubble.dll
+D:\UWM\aisd\bubble\obj\Debug\net6.0-windows\bubble.pdb
+D:\UWM\aisd\bubble\obj\Debug\net6.0-windows\bubble.genruntimeconfig.cache
+D:\UWM\aisd\bubble\obj\Debug\net6.0-windows\ref\bubble.dll
