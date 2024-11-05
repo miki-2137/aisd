@@ -1,0 +1,16 @@
+D:\UWM\aisd\sorts\sorts\bin\Debug\net6.0-windows\sorts.exe
+D:\UWM\aisd\sorts\sorts\bin\Debug\net6.0-windows\sorts.deps.json
+D:\UWM\aisd\sorts\sorts\bin\Debug\net6.0-windows\sorts.runtimeconfig.json
+D:\UWM\aisd\sorts\sorts\bin\Debug\net6.0-windows\sorts.dll
+D:\UWM\aisd\sorts\sorts\bin\Debug\net6.0-windows\sorts.pdb
+D:\UWM\aisd\sorts\sorts\obj\Debug\net6.0-windows\sorts.Form1.resources
+D:\UWM\aisd\sorts\sorts\obj\Debug\net6.0-windows\sorts.csproj.GenerateResource.cache
+D:\UWM\aisd\sorts\sorts\obj\Debug\net6.0-windows\sorts.GeneratedMSBuildEditorConfig.editorconfig
+D:\UWM\aisd\sorts\sorts\obj\Debug\net6.0-windows\sorts.AssemblyInfoInputs.cache
+D:\UWM\aisd\sorts\sorts\obj\Debug\net6.0-windows\sorts.AssemblyInfo.cs
+D:\UWM\aisd\sorts\sorts\obj\Debug\net6.0-windows\sorts.csproj.CoreCompileInputs.cache
+D:\UWM\aisd\sorts\sorts\obj\Debug\net6.0-windows\sorts.dll
+D:\UWM\aisd\sorts\sorts\obj\Debug\net6.0-windows\refint\sorts.dll
+D:\UWM\aisd\sorts\sorts\obj\Debug\net6.0-windows\sorts.pdb
+D:\UWM\aisd\sorts\sorts\obj\Debug\net6.0-windows\sorts.genruntimeconfig.cache
+D:\UWM\aisd\sorts\sorts\obj\Debug\net6.0-windows\ref\sorts.dll
