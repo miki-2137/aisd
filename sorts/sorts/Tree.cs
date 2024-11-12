@@ -61,18 +61,62 @@ namespace sorty
                 InOrder(korzen.prawe);
             }
         }
+        public NodeT Remove(NodeT root, int key)
+        {
+            if (root == null)
+            {
+                return null;
+            }
+            if (key < root.data)
+            {
+                root.lewe = Remove(root.lewe, key);
+            }
+            else if (key > root.data)
+            {
+                root.prawe = Remove(root.prawe, key);
+            }
+            else
+            {
+                if (root.lewe == null)
+                {
+                    return root.prawe;
+                }
+                else if (root.prawe == null)
+                {
+                    return root.lewe;
+                }
+
+                NodeT minNode = FindMin(root.prawe);
+                root.data = minNode.data;
+                root.prawe = Remove(root.prawe, root.data);
+            }
+            return root;
+        }
+
+        private NodeT FindMin(NodeT node)
+        {
+            while (node.lewe != null)
+            {
+                node = node.lewe;
+            }
+            return node;
+        }
+
         public static void Main(string[] args)
         {
             Tree tr = new Tree();
-            tr.Add(new NodeT(5));
-            tr.Add(new NodeT(3));
-            tr.Add(new NodeT(7));
-            tr.Add(new NodeT(1));
-            tr.Add(new NodeT(9));
+            tr.AddInto(new NodeT(5));
+            tr.AddInto(new NodeT(3));
+            tr.AddInto(new NodeT(7));
+            tr.AddInto(new NodeT(1));
+            tr.AddInto(new NodeT(9));
 
             /*Console.WriteLine(tr.korzen.data);
             Console.WriteLine(tr.korzen.lewe.data);
             Console.WriteLine(tr.korzen.prawe.data);*/
+            tr.InOrder(tr.korzen);
+            Console.WriteLine("-----");
+            tr.Remove(tr.korzen, 5);
             tr.InOrder(tr.korzen);
         }
     }
