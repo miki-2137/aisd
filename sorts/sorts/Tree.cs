@@ -105,11 +105,11 @@ namespace sorty
         public static void Main(string[] args)
         {
             Tree tr = new Tree();
-            tr.AddInto(new NodeT(5));
-            tr.AddInto(new NodeT(3));
-            tr.AddInto(new NodeT(7));
-            tr.AddInto(new NodeT(1));
-            tr.AddInto(new NodeT(9));
+            tr.Add(new NodeT(5));
+            tr.Add(new NodeT(3));
+            tr.Add(new NodeT(7));
+            tr.Add(new NodeT(1));
+            tr.Add(new NodeT(9));
 
             /*Console.WriteLine(tr.korzen.data);
             Console.WriteLine(tr.korzen.lewe.data);
