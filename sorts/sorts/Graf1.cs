@@ -92,5 +92,17 @@ namespace sorty
             }
             return grafy[0];
         }
+        public PrzygotujTabelke(NodeG1 start)//dokonczyc
+        {
+            return;
+        }
+        public List<Element> Dijkstra(NodeG1 start)
+        {
+            var tabelka = this.PrzygotujTabelke(start);
+            var zbS = new List<NodeG1>();
+            var kandydaci = tabelka.Where(e => !zbS.Contains(e.wezel));
+            var kandydat = kandydaci.OrderBy(e => e.dystans).First();
+            var sasiedzi = this.edges.Where(k => k.start == kandydat.wezel).ToList();
+        }
     }
 }
