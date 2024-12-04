@@ -52,6 +52,45 @@ namespace sorty
             }
         }
 
-        //napisac algorytm kruskala
+        public Graf1 Kruskal()
+        {
+            var krawedzie = this.edges.OrderBy(k => k.weight).ToList();
+            var grafy = new List<Graf1>() { new Graf1(krawedzie[0]) };
+
+            for(int i = 1; i < krawedzie.Count; i++)
+            {
+                var k = krawedzie[i];
+                var l = -1;
+
+                for(int j=0;j<grafy.Count; j++)
+                {
+                    var g = grafy[j];
+                    switch (g.IleNowych(k))
+                    {
+                        case 2:
+                            grafy.Add(new Graf1(k));
+                            j = grafy.Count;
+                            break;
+                        case 0:
+                            j = grafy.Count;
+                            break;
+                        case 1:
+                            if (l == -1)
+                            {
+                                g.Add(k);
+                                l = j;
+                            }
+                            else
+                            {
+                                grafy[l].Join(g);
+                                grafy.RemoveAt(j);
+                                j = grafy.Count;
+                                break;
+                            }
+                    }
+                }
+            }
+            return grafy[0];
+        }
     }
 }
