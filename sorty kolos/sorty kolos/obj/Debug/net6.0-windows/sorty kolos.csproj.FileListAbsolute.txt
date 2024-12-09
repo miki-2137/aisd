@@ -1,0 +1,16 @@
+D:\UWM\aisd\sorty kolos\sorty kolos\bin\Debug\net6.0-windows\sorty kolos.exe
+D:\UWM\aisd\sorty kolos\sorty kolos\bin\Debug\net6.0-windows\sorty kolos.deps.json
+D:\UWM\aisd\sorty kolos\sorty kolos\bin\Debug\net6.0-windows\sorty kolos.runtimeconfig.json
+D:\UWM\aisd\sorty kolos\sorty kolos\bin\Debug\net6.0-windows\sorty kolos.dll
+D:\UWM\aisd\sorty kolos\sorty kolos\bin\Debug\net6.0-windows\sorty kolos.pdb
+D:\UWM\aisd\sorty kolos\sorty kolos\obj\Debug\net6.0-windows\sorty_kolos.Form1.resources
+D:\UWM\aisd\sorty kolos\sorty kolos\obj\Debug\net6.0-windows\sorty kolos.csproj.GenerateResource.cache
+D:\UWM\aisd\sorty kolos\sorty kolos\obj\Debug\net6.0-windows\sorty kolos.GeneratedMSBuildEditorConfig.editorconfig
+D:\UWM\aisd\sorty kolos\sorty kolos\obj\Debug\net6.0-windows\sorty kolos.AssemblyInfoInputs.cache
+D:\UWM\aisd\sorty kolos\sorty kolos\obj\Debug\net6.0-windows\sorty kolos.AssemblyInfo.cs
+D:\UWM\aisd\sorty kolos\sorty kolos\obj\Debug\net6.0-windows\sorty kolos.csproj.CoreCompileInputs.cache
+D:\UWM\aisd\sorty kolos\sorty kolos\obj\Debug\net6.0-windows\sorty kolos.dll
+D:\UWM\aisd\sorty kolos\sorty kolos\obj\Debug\net6.0-windows\refint\sorty kolos.dll
+D:\UWM\aisd\sorty kolos\sorty kolos\obj\Debug\net6.0-windows\sorty kolos.pdb
+D:\UWM\aisd\sorty kolos\sorty kolos\obj\Debug\net6.0-windows\sorty kolos.genruntimeconfig.cache
+D:\UWM\aisd\sorty kolos\sorty kolos\obj\Debug\net6.0-windows\ref\sorty kolos.dll
