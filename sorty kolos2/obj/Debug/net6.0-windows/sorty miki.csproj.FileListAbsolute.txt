@@ -1,0 +1,16 @@
+D:\po\AiSD nauka\sorty miki\bin\Debug\net6.0-windows\sorty miki.exe
+D:\po\AiSD nauka\sorty miki\bin\Debug\net6.0-windows\sorty miki.deps.json
+D:\po\AiSD nauka\sorty miki\bin\Debug\net6.0-windows\sorty miki.runtimeconfig.json
+D:\po\AiSD nauka\sorty miki\bin\Debug\net6.0-windows\sorty miki.dll
+D:\po\AiSD nauka\sorty miki\bin\Debug\net6.0-windows\sorty miki.pdb
+D:\po\AiSD nauka\sorty miki\obj\Debug\net6.0-windows\sorty_miki.Form1.resources
+D:\po\AiSD nauka\sorty miki\obj\Debug\net6.0-windows\sorty miki.csproj.GenerateResource.cache
+D:\po\AiSD nauka\sorty miki\obj\Debug\net6.0-windows\sorty miki.GeneratedMSBuildEditorConfig.editorconfig
+D:\po\AiSD nauka\sorty miki\obj\Debug\net6.0-windows\sorty miki.AssemblyInfoInputs.cache
+D:\po\AiSD nauka\sorty miki\obj\Debug\net6.0-windows\sorty miki.AssemblyInfo.cs
+D:\po\AiSD nauka\sorty miki\obj\Debug\net6.0-windows\sorty miki.csproj.CoreCompileInputs.cache
+D:\po\AiSD nauka\sorty miki\obj\Debug\net6.0-windows\sorty miki.dll
+D:\po\AiSD nauka\sorty miki\obj\Debug\net6.0-windows\refint\sorty miki.dll
+D:\po\AiSD nauka\sorty miki\obj\Debug\net6.0-windows\sorty miki.pdb
+D:\po\AiSD nauka\sorty miki\obj\Debug\net6.0-windows\sorty miki.genruntimeconfig.cache
+D:\po\AiSD nauka\sorty miki\obj\Debug\net6.0-windows\ref\sorty miki.dll
