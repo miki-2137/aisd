@@ -2,42 +2,40 @@ using System;
 
 public class LongestCommonSubsequence
 {
-    public static int FindLCSLength(string str1, string str2)
+    public static int DlugoscNWP(string s1, string s2)
     {
-        int m = str1.Length;
-        int n = str2.Length;
-        int[,] dp = new int[m + 1, n + 1];
+        int m = s1.Length;
+        int n = s2.Length;
+        int[,] tab = new int[m + 1, n + 1];
 
-        // Tworzenie macierzy dp
         for (int i = 1; i <= m; i++)
         {
             for (int j = 1; j <= n; j++)
             {
-                if (str1[i - 1] == str2[j - 1])
+                if (s1[i - 1] == s2[j - 1])
                 {
-                    dp[i, j] = dp[i - 1, j - 1] + 1;
+                    tab[i, j] = tab[i - 1, j - 1] + 1;
                 }
                 else
                 {
-                    dp[i, j] = Math.Max(dp[i - 1, j], dp[i, j - 1]);
+                    tab[i, j] = Math.Max(tab[i - 1, j], tab[i, j - 1]);
                 }
             }
         }
 
-        // Odtwarzanie najdłuższego wspólnego podciągu
-        int index = dp[m, n];
-        char[] lcs = new char[index];
+        int index = tab[m, n];
+        char[] nwp = new char[index];
         int k = m, l = n;
         while (k > 0 && l > 0)
         {
-            if (str1[k - 1] == str2[l - 1])
+            if (s1[k - 1] == s2[l - 1])
             {
-                lcs[index - 1] = str1[k - 1];
+                nwp[index - 1] = s1[k - 1];
                 k--;
                 l--;
                 index--;
             }
-            else if (dp[k - 1, l] > dp[k, l - 1])
+            else if (tab[k - 1, l] > tab[k, l - 1])
             {
                 k--;
             }
@@ -47,14 +45,14 @@ public class LongestCommonSubsequence
             }
         }
 
-        Console.WriteLine("Longest Common Subsequence: " + new string(lcs));
-        return dp[m, n];
+        Console.WriteLine("nwp: " + new string(nwp));
+        return tab[m, n];
     }
 
     public static void Main(string[] args)
     {
-        string str1 = "abaabbaaa";
-        string str2 = "babab";
-        Console.WriteLine("Length of LCS: " + FindLCSLength(str1, str2));
+        string s1 = "abaabbaaa";
+        string s2 = "babab";
+        Console.WriteLine("dlugosc nwp: " + DlugoscNWP(s1, s2));
     }
 }
