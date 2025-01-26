@@ -1,0 +1,14 @@
+D:\UWM\aisd\zadania\listy\listy\obj\Debug\net8.0\listy.GeneratedMSBuildEditorConfig.editorconfig
+D:\UWM\aisd\zadania\listy\listy\obj\Debug\net8.0\listy.AssemblyInfoInputs.cache
+D:\UWM\aisd\zadania\listy\listy\obj\Debug\net8.0\listy.AssemblyInfo.cs
+D:\UWM\aisd\zadania\listy\listy\obj\Debug\net8.0\listy.csproj.CoreCompileInputs.cache
+D:\UWM\aisd\zadania\listy\listy\bin\Debug\net8.0\listy.exe
+D:\UWM\aisd\zadania\listy\listy\bin\Debug\net8.0\listy.deps.json
+D:\UWM\aisd\zadania\listy\listy\bin\Debug\net8.0\listy.runtimeconfig.json
+D:\UWM\aisd\zadania\listy\listy\bin\Debug\net8.0\listy.dll
+D:\UWM\aisd\zadania\listy\listy\bin\Debug\net8.0\listy.pdb
+D:\UWM\aisd\zadania\listy\listy\obj\Debug\net8.0\listy.dll
+D:\UWM\aisd\zadania\listy\listy\obj\Debug\net8.0\refint\listy.dll
+D:\UWM\aisd\zadania\listy\listy\obj\Debug\net8.0\listy.pdb
+D:\UWM\aisd\zadania\listy\listy\obj\Debug\net8.0\listy.genruntimeconfig.cache
+D:\UWM\aisd\zadania\listy\listy\obj\Debug\net8.0\ref\listy.dll
