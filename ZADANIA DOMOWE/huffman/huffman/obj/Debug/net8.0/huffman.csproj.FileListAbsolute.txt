@@ -1,0 +1,14 @@
+D:\UWM\aisd\zadania\huffman\huffman\obj\Debug\net8.0\huffman.GeneratedMSBuildEditorConfig.editorconfig
+D:\UWM\aisd\zadania\huffman\huffman\obj\Debug\net8.0\huffman.AssemblyInfoInputs.cache
+D:\UWM\aisd\zadania\huffman\huffman\obj\Debug\net8.0\huffman.AssemblyInfo.cs
+D:\UWM\aisd\zadania\huffman\huffman\obj\Debug\net8.0\huffman.csproj.CoreCompileInputs.cache
+D:\UWM\aisd\zadania\huffman\huffman\bin\Debug\net8.0\huffman.exe
+D:\UWM\aisd\zadania\huffman\huffman\bin\Debug\net8.0\huffman.deps.json
+D:\UWM\aisd\zadania\huffman\huffman\bin\Debug\net8.0\huffman.runtimeconfig.json
+D:\UWM\aisd\zadania\huffman\huffman\bin\Debug\net8.0\huffman.dll
+D:\UWM\aisd\zadania\huffman\huffman\bin\Debug\net8.0\huffman.pdb
+D:\UWM\aisd\zadania\huffman\huffman\obj\Debug\net8.0\huffman.dll
+D:\UWM\aisd\zadania\huffman\huffman\obj\Debug\net8.0\refint\huffman.dll
+D:\UWM\aisd\zadania\huffman\huffman\obj\Debug\net8.0\huffman.pdb
+D:\UWM\aisd\zadania\huffman\huffman\obj\Debug\net8.0\huffman.genruntimeconfig.cache
+D:\UWM\aisd\zadania\huffman\huffman\obj\Debug\net8.0\ref\huffman.dll
