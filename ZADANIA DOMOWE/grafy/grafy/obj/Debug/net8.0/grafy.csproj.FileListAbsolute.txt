@@ -1,0 +1,14 @@
+D:\UWM\aisd\zadania\grafy\grafy\obj\Debug\net8.0\grafy.GeneratedMSBuildEditorConfig.editorconfig
+D:\UWM\aisd\zadania\grafy\grafy\obj\Debug\net8.0\grafy.AssemblyInfoInputs.cache
+D:\UWM\aisd\zadania\grafy\grafy\obj\Debug\net8.0\grafy.AssemblyInfo.cs
+D:\UWM\aisd\zadania\grafy\grafy\obj\Debug\net8.0\grafy.csproj.CoreCompileInputs.cache
+D:\UWM\aisd\zadania\grafy\grafy\bin\Debug\net8.0\grafy.exe
+D:\UWM\aisd\zadania\grafy\grafy\bin\Debug\net8.0\grafy.deps.json
+D:\UWM\aisd\zadania\grafy\grafy\bin\Debug\net8.0\grafy.runtimeconfig.json
+D:\UWM\aisd\zadania\grafy\grafy\bin\Debug\net8.0\grafy.dll
+D:\UWM\aisd\zadania\grafy\grafy\bin\Debug\net8.0\grafy.pdb
+D:\UWM\aisd\zadania\grafy\grafy\obj\Debug\net8.0\grafy.dll
+D:\UWM\aisd\zadania\grafy\grafy\obj\Debug\net8.0\refint\grafy.dll
+D:\UWM\aisd\zadania\grafy\grafy\obj\Debug\net8.0\grafy.pdb
+D:\UWM\aisd\zadania\grafy\grafy\obj\Debug\net8.0\grafy.genruntimeconfig.cache
+D:\UWM\aisd\zadania\grafy\grafy\obj\Debug\net8.0\ref\grafy.dll
