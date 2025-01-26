@@ -1,0 +1,14 @@
+D:\UWM\aisd\zadania\kruskal\kruskal\obj\Debug\net8.0\kruskal.GeneratedMSBuildEditorConfig.editorconfig
+D:\UWM\aisd\zadania\kruskal\kruskal\obj\Debug\net8.0\kruskal.AssemblyInfoInputs.cache
+D:\UWM\aisd\zadania\kruskal\kruskal\obj\Debug\net8.0\kruskal.AssemblyInfo.cs
+D:\UWM\aisd\zadania\kruskal\kruskal\obj\Debug\net8.0\kruskal.csproj.CoreCompileInputs.cache
+D:\UWM\aisd\zadania\kruskal\kruskal\bin\Debug\net8.0\kruskal.exe
+D:\UWM\aisd\zadania\kruskal\kruskal\bin\Debug\net8.0\kruskal.deps.json
+D:\UWM\aisd\zadania\kruskal\kruskal\bin\Debug\net8.0\kruskal.runtimeconfig.json
+D:\UWM\aisd\zadania\kruskal\kruskal\bin\Debug\net8.0\kruskal.dll
+D:\UWM\aisd\zadania\kruskal\kruskal\bin\Debug\net8.0\kruskal.pdb
+D:\UWM\aisd\zadania\kruskal\kruskal\obj\Debug\net8.0\kruskal.dll
+D:\UWM\aisd\zadania\kruskal\kruskal\obj\Debug\net8.0\refint\kruskal.dll
+D:\UWM\aisd\zadania\kruskal\kruskal\obj\Debug\net8.0\kruskal.pdb
+D:\UWM\aisd\zadania\kruskal\kruskal\obj\Debug\net8.0\kruskal.genruntimeconfig.cache
+D:\UWM\aisd\zadania\kruskal\kruskal\obj\Debug\net8.0\ref\kruskal.dll
